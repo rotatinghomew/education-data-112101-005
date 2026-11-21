@@ -1,0 +1,4 @@
+outcome_ref,user_ref,session_ref,event_at,outcome_kind,maturity_state,review_state
+O-1,U-1,L-1,2026-01-05,complaint,mature,confirmed
+O-2,U-2,L-3,2026-01-10,complaint,immature,pending
+O-3,U-3,L-4,2026-02-03,complaint,mature,corrected

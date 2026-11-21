@@ -1,0 +1,4 @@
+exposure_ref,user_ref,session_ref,policy_ref,seen_at,impression_count
+X-1,U-1,L-1,P-1,2026-01-02,3
+X-2,U-1,L-2,P-2,2026-01-04,1
+X-3,U-2,L-3,P-1,2026-01-03,2

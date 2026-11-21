@@ -1,0 +1,4 @@
+assignment_ref,unit_ref,policy_ref,assigned_at,stratum,assignment_group
+AS-1,U-1,P-1,2026-01-01,new,treatment
+AS-2,U-2,P-1,2026-01-01,new,control
+AS-3,U-3,P-2,2026-02-01,returning,treatment

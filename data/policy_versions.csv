@@ -1,0 +1,4 @@
+policy_ref,version,valid_from,valid_to,action_description
+P-1,1,2026-01-01,2026-01-31,直播提示
+P-2,1,2026-02-01,2026-02-14,推荐降权
+P-2,2,2026-02-15,,人工复核
